@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: my-spring-boot-web
+Implementation-Version: 1.0
+Built-By: shubh
+Implementation-Vendor-Id: com.simplilearn.workshop
+Build-Jdk: 1.8.0_271
+Implementation-URL: https://spring.io/projects/spring-boot/my-spring-b
+ oot-web
+Created-By: Maven Integration for Eclipse
+
